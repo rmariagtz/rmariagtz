@@ -8,7 +8,7 @@ set -o pipefail
 
 
 #my input files path
-cd /hd1/rmaria/FASTQ/PRUEBAS_ENSAMBLE
+cd /hd1/rmaria/FASTQ/PRUEBAS_ENSAMBLE/
 
 for file1 in out*1*.fastq
 do	
